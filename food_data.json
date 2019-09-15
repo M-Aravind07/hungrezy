@@ -1,0 +1,136 @@
+{
+	"Dosa":
+		{
+			"Ingredients": "1 cup whole skinned urad dal, 3 cups idli rice, Salt as needed, 4 cups of fermented dosa batter, 1-1.5 cups of water, 4 tbsp of gingelly oil",
+			"Recipe" : "Soak the rice and dal separately for 3 hours; Grind dal first into a smooth consistency adding enough water; Grind rice into a smooth batter by adding just enough water to get it going; Combine the two, add salt, and let it ferment in a large enough bowl lightly covered, for about 6-8 hours in a warm place; Add enough water to the fermented batter until you have a smooth, pouring consistency. Make sure the batter is not too watery though, it should be thick-ish but fall off your spoon easily.; Heat a tawa or iron griddle and grease with the oil lightly. Pour about 1/2 cup batter to the centre of the tawa.; Using the back of your ladle, gently spread the batter with a circular motion from the centre towards the sides of the tawa.; Drizzle about 1 tsp of oil around the edges of the dosa and add a few sprinkles on the top as well.; If your tawa is greased adequately and is not sticky, the edge of the dosa will start to come off the pan in about 1 minute or so. Use a spatula to gently lift the dosa and flip it over. Cook the other side for another 40 seconds or so and remove from pan.; Serve with dosa podi, chutney or sambar.",
+			"Available at" : [{
+								"RName" : "Adyar Ananda Bhavan A2B Veg Restaurant",
+								"Ratings" : "4.0/5",
+								"Latitude" : "12.833192",
+								"Longitude" : "80.047696"
+							},
+						
+							{
+								"RName" : "Shri Balaajee Bhavan",
+								"Ratings" : "4.2/5",
+								"Latitude" : "12.828631",
+								"Longitude" : "80.042883"
+							},
+
+							{
+								"RName" : "Sathyam Vegetarian Restaurant",
+								"Ratings" : "4.1/5",
+								"Latitude" : "12.838872",
+								"Longitude" : "80.054085"
+							}
+						]
+		},
+		
+		"Idli":
+		{
+			"Ingredients": "2 1/2 cup Idli rice, 1/2 tablespoon Fenugreek seeds, 5 tablespoon Sesame oil, 1 1/2 cup Urad dal, Salt as needed, Water as required",
+			"Recipe" : "Wash rice and urad dal separately until the water runs clean and add fenugreek seeds to the rice. Soak it in water for 4-6 hours. Soak the urad dal too for the same amount of time. Drain all the water from the urad dal and grind it to a fine paste. Add water accordingly; Grind the rice to a coarse paste (add water as needed) and then mix both the pastes together in a large bowl and whisk them well. Make sure that the consistency is thick.; Now, the idli batter needs to be well-fermented. This step is very important to get soft and fluffy idlis. Keep the batter in a warm place to ferment. Once the batter has risen, add salt to it and whisk to mix it well.; Grease the idli stand with oil and take a ladleful of batter and fill the idli mould. Add ½ cup of water in the idli steamer and let it boil. Put the idli stand inside and close the lid. Let the steam build for 8-10 minutes before switching off the gas.; If you are using a cooker, use it without a vent and steam it for 10 minutes and then switch the gas off. In both cases, wait till the steam is released before you take the idli stand out. Wait for another 5 minutes and then use a sharp knife to scoop the idlis out. Serve warm with sambar and chutney.",
+			"Available at" : [{
+								"RName" : "Adyar Ananda Bhavan A2B Veg Restaurant",
+								"Ratings" : "4.0/5",
+								"Latitude" : "12.833192",
+								"Longitude" : "80.047696"
+							},
+						
+							{
+								"RName" : "Shri Balaajee Bhavan",
+								"Ratings" : "4.2/5",
+								"Latitude" : "12.828631",
+								"Longitude" : "80.042883"
+							},
+
+							{
+								"RName" : "Sathyam Vegetarian Restaurant",
+								"Ratings" : "4.1/5",
+								"Latitude" : "12.838872",
+								"Longitude" : "80.054085"
+							}
+						]
+		},
+
+		"Vada":
+		{
+			"Ingredients": "1 cup of urad dal, 1/4 cup of channa dal, 2 tsp of rice flour, 2 green chillies, Few curry leaves, 1 tbsp coriander leaves, 1 inch ginger, pinch of hing, salt to taste, oil to fry",
+			"Recipe" : "Wash and soak dal in about 3 cups of water for about 2-3 hours; Drain all the water from soaked dal. Grind urad dal and channa dal together to smooth paste using very little water.; The batter should be thick and use very little water. Consistency is very important or otherwise, you will not be able to get the vada shape.; Add coriander, green chilli, ginger and chopped dry coconut to the batter. Mix it very well.; Add 2-3 tsp of rice flour to make it crispy.; Add pinch of hing to make it more digestible.; Heat the oil in a frying pan in medium flame. Wet your palms and take a lemon size batter.; Make hole in the center and slide it into the hot oil. The vada should float on top of oil.; Fry on both sides till it becomes golden brown in colour.; Serve medu vada immediately with chutney collections or sambar.",
+			"Available at" : [{
+								"RName" : "Adyar Ananda Bhavan A2B Veg Restaurant",
+								"Ratings" : "4.0/5",
+								"Latitude" : "12.833192",
+								"Longitude" : "80.047696"
+							},
+						
+							{
+								"RName" : "Shri Balaajee Bhavan",
+								"Ratings" : "4.2/5",
+								"Latitude" : "12.828631",
+								"Longitude" : "80.042883"
+							},
+
+							{
+								"RName" : "Sathyam Vegetarian Restaurant",
+								"Ratings" : "4.1/5",
+								"Latitude" : "12.838872",
+								"Longitude" : "80.054085"
+							}
+						]
+		},
+
+		"Biriyani":
+		{
+			"Ingredients": "600 gm basmati rice, 4 tablespoon mint leaves, salt as required, 2 teaspoon coriander powder, 1 tablespoon garlic paste, 2 tablespoon tomato puree, 400 gm white onion, 8 green cardamom, 1 tablespoon milk, 1 kilograms chicken thighs, 1 teaspoon garam masala powder, 2 pinches saffron, 1 tablespoon ginger paste, 4 green chilli, 300 gm tomato, 2 teaspoon cumin seeds, 6 tablespoon refined oil, 1/2 teaspoon chilli powder, 6 tablespoon plain greek yogurt, 1 teaspoon powdered turmeric",
+			"Recipe" : "For marinating chicken, take a large bowl and add Greek yoghurt in it along with turmeric, chili powder along with salt as per your taste in a small bowl. Mix well using a spoon and then, add the chicken thighs in the mixture and rub with this mixture. Keep aside for about 20-30 minutes, so that the yogurt mixture is properly absorbed by the chicken. Also, soak saffron in the milk to make saffron milk and keep aside.; In the meanwhile, pour refined oil in a deep-bottomed pan, keeping it on medium flame. Add cumin seeds and green cardamom in it and saute for about 2 minutes. Once done, immediately add the sliced onion and fry for 2-3 minutes straight. Make sure you don't burn it, so when the onion starts to get brown in color, add tomatoes and tomato puree and fry for another 5 minutes.; Next, add the slit green chilies to the mixture along with ginger-garlic paste, frying the mixture yet again for a minute. Then, add coriander powder and turn the flame to medium-low while stirring and cooking the masala. Quickly, add the marinated chicken and mix for a while so that the ingredients absorb the juices properly.; Turn the flame to medium again and heat-through for about 5-6 minutes only to turn it over to low heat. Cover with a lid and let simmer for 5 minutes. Make sure to keep stirring during the entire process, else the chicken might stick to the bottom, eventually ending up burnt. You can add little water, if you find the consistency too thick.; Once done, turn off the flame and add half of the boiled rice in the pan and keep the rest aside until required. Sprinkle milk soaked saffron along with garam masala, mint and coriander leaves. Put the remaining rice over this layer and garnish with the same mentioned four ingredients.; Lastly, cover the lid, turn the flame to low medium and let the rice cook for about 5 minutes. Once done, put it off and let the biryani stay covered for about another 10 minutes. Serve hot, along with raita or any chutney of your choice.",
+			"Available at" : [{
+								"RName" : "Anjappar Chettinad Restaurant",
+								"Ratings" : "3.5/5",
+								"Latitude" : "12.837738",
+								"Longitude" : "80.053290"
+							},
+						
+							{
+								"RName" : "Ambur Star Biriyani",
+								"Ratings" : "3.9/5",
+								"Latitude" : "12.849356",
+								"Longitude" : "80.064542"
+							},
+
+							{
+								"RName" : "Naattarasan",
+								"Ratings" : "3.9/5",
+								"Latitude" : "12.857080",
+								"Longitude" : "80.069614"
+							}
+						]
+		},
+
+		"Paneer Butter Masala":
+		{
+			"Ingredients": "3 tablespoons butter, 250 grams Paneer cubes (or Cottage Cheese), 3 Kashmiri Red Chilies, 1 teaspoon Ginger Paste, 1 teaspoon Garlic Paste, 1 Bay leaves, 1 inch Cinnamon Stick, 3 Cloves, 2 Cardamoms, 1/2 teaspoon Peppercorns, 2 tablespoons Cashewnuts (Chopped), 1 Onion (roughly chopped), 6 Tomatoes (roughly chopped), 1/2 teaspoon Chili powder, 1/2 teaspoon Garam masala powder, 1/2 teaspoon Turmeric powder, 1 1/2 tablespoons Ketchup, 1 tablespoons Kasuri Methi (Dry), 2 tablespoons Fresh Cream, Salt for taste",
+			"Recipe" : "In a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil.; Add red chillies, ginger, garlic paste and all the whole spices (bay leaves, cinnamon, cloves, cardamom and peppercorns). Saute for a minute or two and add cashew nuts, poppy seeds (if using) and onions. Once the onions turn translucent, add the tomatoes. Mix well.; Cover and cook till the tomatoes start breaking down and the mixture starts leaving oil at the edges. Switch off the flame and set aside to cool.; Once cool enough to handle, fish out as many whole spices as possible, and blend the mixture to a smooth paste.; In the same pan or kadhai, heat the remaining butter and add the blended paste prepared in step #4. Add garam masala powder, chili powder, turmeric, ketchup, salt along with 1/2 cup water. Bring this to a boil.; Once the curry comes to a boil, simmer and cook for 30 minutes, till the oil separates slightly. Cut the paneer into bite sized pieces, add it to the gravy and mix gently.; In another pan, dry roast the kasuri methi and grind it to a fine powder. Mix kasuri methi and fresh cream in the curry and switch off the flame.; Serve it with roti, naan or parathas.",
+			"Available at" : [{
+								"RName" : "Adyar Ananda Bhavan A2B Veg Restaurant",
+								"Ratings" : "4.0/5",
+								"Latitude" : "12.833192",
+								"Longitude" : "80.047696"
+							},
+						
+							{
+								"RName" : "Tongue Restaurant",
+								"Ratings" : "4.0/5",
+								"Latitude" : "12.837087",
+								"Longitude" : "80.155475"
+							},
+
+							{
+								"RName" : "Sangeetha Restaurant",
+								"Ratings" : "3.8/5",
+								"Latitude" : "12.878821",
+								"Longitude" : "80.079666"
+							}
+						]
+		}
+}
